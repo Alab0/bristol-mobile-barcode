@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.pytest_cache/
+
+logs/
+*.log
+
+.vscode/
+.idea/
+
+failed_records/
+*.txt
+
+.env
